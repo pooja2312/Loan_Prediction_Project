@@ -1,6 +1,6 @@
 Description about data columns:                                                
 There are altogether 21 columns in our data set.All the  variables /factors  decide the approval of the loan or not.
-Now let us look in to the each variable and can make some assumptions.(It’s just assumptions right, there is no harm in just assuming few statements)
+Now let us look in to the each variable and can make some assumptions.(It’s just assumptions right, there is no harm in just assuming few statements)           
 ID- As the name suggests each person should have a unique loan id.    
 Personal Details- city,sex,age, social calss. We can assume that These factors are not going to affect the approval of loan .    
 House Details- home_ownership, type_of_house, occupants_count, house_area , sanitary_availability, water_availability .We can assume that better house, less occupants , big house area ,good sanitary availabilty and water availabilty would increase the probability of  loan approval.    
