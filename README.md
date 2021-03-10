@@ -1,4 +1,4 @@
-Description about data columns:
+Description about data columns:                                                
 There are altogether 21 columns in our data set.All the  variables /factors  decide the approval of the loan or not.
 Now let us look in to the each variable and can make some assumptions.(It’s just assumptions right, there is no harm in just assuming few statements)
 ID- As the name suggests each person should have a unique loan id
